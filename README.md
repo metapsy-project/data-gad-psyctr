@@ -1,4 +1,4 @@
-## **The `data-gad` dataset** 📊 
+## **The `data-gad-psyctr` dataset** 📊 
 
 [<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.8364508-blue">](https://doi.org/10.5281/zenodo.8364508) **SHIELD NEEDS TO BE UPDATED**
 
