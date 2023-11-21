@@ -14,8 +14,9 @@
         "Wrong design": 6, 
         "Wrong intervention": 13, 
         "Wrong outcome": 3, 
-        "Wrong population": 7
+        "Wrong population": 7, 
+        "Other comparisons than Psy vs ctr": 16,
         
     },
-    "included": XX
+    "included": 50
 }
